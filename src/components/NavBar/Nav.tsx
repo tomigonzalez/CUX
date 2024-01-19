@@ -1,9 +1,9 @@
 import { BookLock, Building, FileText, MessageCircleHeart, MessageCircleMore, MessageSquareText, UserSearch } from "lucide-react"
 
 
-type Props = {}
 
-const Nav = (props: Props) => {
+
+const Nav = () => {
   return (
    <nav className='absolute h-full w-full flex flex-col items-center justify-around'>
     <div className='w-2/5 m-6'>

@@ -1,9 +1,9 @@
-import React from 'react'
+
 import Nav from './Nav'
 
-type Props = {}
 
-const NavBar = (props: Props) => {
+
+const NavBar = () => {
   return (
     <header className='w-1/4 h-full rounded-2xl relative'>
       <Nav />
