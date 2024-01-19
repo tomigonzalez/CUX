@@ -7,7 +7,7 @@ const Nav = () => {
   return (
    <nav className='absolute h-full w-full flex flex-col items-center justify-around'>
     <div className='w-2/5 m-6'>
-    <img src='../public/CUX.png' className="h-full w-full"/>
+    <img src='CUX.png' className="h-full w-full"/>
     </div>
     
     <ul className=' h-full w-5/6 pb-14 pt-3 flex flex-col justify-around text-left     @apply text-xl font-bold '>

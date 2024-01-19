@@ -7,7 +7,7 @@ const NavBar = () => {
   return (
     <header className='w-1/4 h-full rounded-2xl relative'>
       <Nav />
-        <img src='../public/Menu.png' alt='Menu Fondo' className='h-full w-full'/>
+        <img src='Menu.png' alt='Menu Fondo' className='h-full w-full'/>
         
     </header>
   )
